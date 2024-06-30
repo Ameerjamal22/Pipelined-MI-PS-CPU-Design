@@ -40,7 +40,7 @@ The verification process involved developing a comprehensive testbench and multi
 - **docs/**: Detailed project report and documentation
 
 ## Getting Started
-To get started with the project, clone the repository and follow the instructions below to run the simulations.
+clone the repo, then open and the code and run using active hdl . 
 
 ### Prerequisites
 - Verilog simulator (e.g., ModelSim, VCS)
