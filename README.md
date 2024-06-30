@@ -42,10 +42,6 @@ The verification process involved developing a comprehensive testbench and multi
 ## Getting Started
 clone the repo, then open and the code and run using active hdl . 
 
-### Prerequisites
-- Verilog simulator (e.g., ModelSim, VCS)
-- Git
-
 ### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/16-bit-pipelined-mips-cpu.git
